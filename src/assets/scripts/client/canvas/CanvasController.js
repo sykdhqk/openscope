@@ -1964,7 +1964,6 @@ export default class CanvasController {
         const canvasSize = [CanvasStageModel.width, CanvasStageModel.height];
         const aircraftPosition = this._toCanvasPosition(aircraft.relativePosition);
 
-
         cc.save();
 
         // generic styles of the compass marks
