@@ -471,7 +471,7 @@ window.AIRPORT_LOAD_LIST = (function() { // eslint-disable-line wrap-iife
             level: 'beginner',
             name: 'Malvinas Argentinas Ushuaia International Airport',
             premium: false
-        // },
+        },
         // {
         //     icao: 'sbgl',
         //     level: 'beginner',
@@ -490,11 +490,11 @@ window.AIRPORT_LOAD_LIST = (function() { // eslint-disable-line wrap-iife
         //     name: 'Luis Muñoz Marín International Airport',
         //     premium: false
         // },
-        // {
-        //     icao: 'tncm',
-        //     level: 'easy',
-        //     name: 'Princess Juliana International Airport',
-        //     premium: false
+        {
+            icao: 'tncm',
+            level: 'easy',
+            name: 'St. Maarten Princess Juliana International Airport',
+            premium: false
         // },
         // {
         //     icao: 'uudd',
